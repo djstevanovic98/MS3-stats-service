@@ -1,0 +1,3 @@
+docker run --name stats-service -d -p 8087:8080 -t stats-service:latest
+
+!!!NAPOMENA NAMAPIRAO SI PORT 8087
